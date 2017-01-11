@@ -1,2 +1,4 @@
-# tears-in-the-rain
-A small town boy becomes a rock sensation. Will he learn who to trust and what really matters before it all comes crashing down?
+# Tears in the Rain
+
+Copyright 2017 - Ben Wilson - Made Available under [CC BY-NC-ND 4.0](LICENSE.md)
+
